@@ -95,7 +95,7 @@ bool accept2()
             return false;
     }
 }
-int main()
+void main_off()
 {
     print_square(1.234);
     cout << sizeof(bool) << "\n";
